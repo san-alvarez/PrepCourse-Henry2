@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-probando otra vez d:
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
